@@ -1,0 +1,37 @@
+body{
+    background-color: #FF6666;
+    text-align: center;
+}
+
+h1{
+    background-color: #FF8989;
+    margin: 10px 10px 0px 10px;
+    border-radius: 5px;
+}
+.main{
+    width: 300px;
+    border-width: thick;
+    border-color: skyblue;
+    border-radius: 5px;
+    
+    position: absolute;
+    
+    left: 40%;
+    top: 30%;
+    background-color: white;
+   
+}
+.btn_add{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color: #FFEADD;
+    height: 30px;
+    width: 60px;
+}
+.input_line{
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    
+}
